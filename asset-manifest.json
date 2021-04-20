@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/antdCrudTest.git/static/css/main.ee30682f.chunk.css",
+    "main.js": "/antdCrudTest.git/static/js/main.d771a6d2.chunk.js",
+    "main.js.map": "/antdCrudTest.git/static/js/main.d771a6d2.chunk.js.map",
+    "runtime-main.js": "/antdCrudTest.git/static/js/runtime-main.3f6823ca.js",
+    "runtime-main.js.map": "/antdCrudTest.git/static/js/runtime-main.3f6823ca.js.map",
+    "static/css/2.fad90cb1.chunk.css": "/antdCrudTest.git/static/css/2.fad90cb1.chunk.css",
+    "static/js/2.74530b2b.chunk.js": "/antdCrudTest.git/static/js/2.74530b2b.chunk.js",
+    "static/js/2.74530b2b.chunk.js.map": "/antdCrudTest.git/static/js/2.74530b2b.chunk.js.map",
+    "static/js/3.91c8212b.chunk.js": "/antdCrudTest.git/static/js/3.91c8212b.chunk.js",
+    "static/js/3.91c8212b.chunk.js.map": "/antdCrudTest.git/static/js/3.91c8212b.chunk.js.map",
+    "index.html": "/antdCrudTest.git/index.html",
+    "static/css/2.fad90cb1.chunk.css.map": "/antdCrudTest.git/static/css/2.fad90cb1.chunk.css.map",
+    "static/css/main.ee30682f.chunk.css.map": "/antdCrudTest.git/static/css/main.ee30682f.chunk.css.map",
+    "static/js/2.74530b2b.chunk.js.LICENSE.txt": "/antdCrudTest.git/static/js/2.74530b2b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3f6823ca.js",
+    "static/css/2.fad90cb1.chunk.css",
+    "static/js/2.74530b2b.chunk.js",
+    "static/css/main.ee30682f.chunk.css",
+    "static/js/main.d771a6d2.chunk.js"
+  ]
+}
